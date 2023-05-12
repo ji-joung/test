@@ -2,5 +2,5 @@
 CVC
 XCV
 XC
-XVC
+XVCS
 ss
